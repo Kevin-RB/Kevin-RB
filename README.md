@@ -4,9 +4,12 @@
 - 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... Web development projects
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... https://www.linkedin.com/in/kevinromerob/
+- 📫 How to reach me: ... 
 - ⚡ Fun fact: ... I want to study in Australia and i like Diving!
 
+## Follow me all around the web
+  Linkedin: <a href="/https://www.linkedin.com/in/kevinromerob/">kevinromerob</a>
+  Instagram: <a href="https://www.instagram.com/kevinromero.b/">kevinromero.b</a>
 <!--
 **Kevin-RB/Kevin-RB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
