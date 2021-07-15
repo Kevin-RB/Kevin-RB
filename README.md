@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... Web development projects
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... 
 - ⚡ Fun fact: ... I want to study in Australia and i like Diving!
 
 ### Follow me all around the web
@@ -19,4 +18,5 @@
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... 
 - 😄 Pronouns: ... he/him
+- 📫 How to reach me: ... 
 -->
