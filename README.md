@@ -6,7 +6,7 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... I want to study in Australia and i like Diving!
 
-### Follow me all around the web
+### More about me
 <ul>
   <li>Linkedin: <a href="/https://www.linkedin.com/in/kevinromerob/">kevinromerob</a></li>
   <li>Instagram: <a href="https://www.instagram.com/kevinromero.b/">kevinromero.b</a></li>
