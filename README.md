@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... Web development projects
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: ... I want to study in Australia and i like Diving!
+- ⚡ Fun fact: ... I want to study a masters degree in Australia!
 
 ### More about me
 <ul>
