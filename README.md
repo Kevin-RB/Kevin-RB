@@ -6,12 +6,13 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... I want to study for my master's degree in Australia!
 
+<!--
 ### More about me
 <ul>
   <li>Linkedin: <a href="/https://www.linkedin.com/in/kevinromerob/">kevinromerob</a></li>
   <li>Instagram: <a href="https://www.instagram.com/kevinromero.b/">kevinromero.b</a></li>
 </ul>
-   
+-->
 <!--
 **Kevin-RB/Kevin-RB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
