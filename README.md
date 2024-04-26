@@ -1,10 +1,10 @@
-## Hi there, i'm Kevin Romero Bedoya 👋
+## Hi there, I'm Kevin Romero Bedoya 👋
 
 - 🔭 I’m currently working on ... Growing my skills as a Developer
 - 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... Web development projects
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: ... I want to study a masters degree in Australia!
+- ⚡ Fun fact: ... I want to study for my master's degree in Australia!
 
 ### More about me
 <ul>
