@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... Web development projects
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: ... I want to study for my master's degree in Australia!
+- ⚡ Fun fact: ... currently doing my MIT in Australia!
 
 <!--
 ### More about me
