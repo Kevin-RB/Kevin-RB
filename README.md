@@ -1,10 +1,7 @@
-## Hi there, I'm Kevin Romero Bedoya 👋
+## Hi there, I'm Kevin Romero👋
 
-- 🔭 I’m currently working on ... Growing my skills as a Developer
-- 🌱 I’m currently learning ... React
-- 👯 I’m looking to collaborate on ... Web development projects
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: ... currently doing my MIT in Australia!
+- 🔭 I’m currently working on... growing my skills, building cool stuff, learning a lot!
+- ⚡ Currently doing my MIT in Australia!
 
 <!--
 ### More about me
