@@ -1,7 +1,7 @@
 ## Hi there, I'm Kevin Romero👋
 
-- 🔭 I’m currently working on... growing my skills, building cool stuff, learning a lot!
-- ⚡ Currently doing my MIT in Australia!
+- 👨🏻‍💻 I’m currently working on... growing my skills, building cool stuff, learning a lot!
+- 🦘 Currently doing my MIT in Australia!
 
 <!--
 ### More about me
