@@ -32,7 +32,8 @@ Most of my projects are things I designed, built, and shipped end to end rather 
 
 **Stack:** Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS 4 · shadcn/ui · Drizzle ORM · Postgres · RustFS (S3-compatible) · Inngest (durable jobs + realtime) · AI SDK · Better Auth · Docker Compose · Vitest
 
-[![live · invite only](https://img.shields.io/badge/live%20%C2%B7%20invite%20only-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://receipts.tribi.dev) — [reach out to me](https://www.linkedin.com/in/kevinromerob/) if you'd like access &nbsp;·&nbsp; [![local-receipt](https://img.shields.io/badge/repo-Kevin--RB%2Flocal--receipt-2ea44f?style=flat-square)](https://github.com/Kevin-RB/local-receipt)
+[![live · invite only](https://img.shields.io/badge/live%20%C2%B7%20invite%20only-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://receipts.tribi.dev) — [reach out to me](https://www.linkedin.com/in/kevinromerob/) if you'd like access
+[![local-receipt](https://img.shields.io/badge/repo-Kevin--RB%2Flocal--receipt-2ea44f?style=flat-square)](https://github.com/Kevin-RB/local-receipt)
 
 ### 🕸️ [crdc-workflows](https://github.com/Kevin-RB/crdc-workflows)
 
