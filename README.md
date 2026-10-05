@@ -16,9 +16,11 @@
 
 I love building things that actually work — especially when software engineering meets AI. I recently completed a **Master of Information Technology (MIT) in Australia** (super proud of it btw 🦘).
 
-My focus is figuring out **where AI actually earns its place in a system** — and then building the rest of that system properly around it. That means a lot of architecture: data models, durable workflows, auth, storage, realtime, deployment. The AI part is one component in a working product, not the product itself.
+My focus is building systems and products that deliver actual value. I care about whether something is genuinely useful to the person using it, and whether it's a delight to use — software that isn't worth reaching for, however well engineered, hasn't really done its job.
 
-Recent projects have leaned on document and data extraction pipelines, but that's a slice of it, not the whole focus. What I enjoy most is the architecture around a feature — knowing where a model belongs, where plain deterministic code is the better answer, and how to keep probabilistic parts observable and reliable in production.
+What draws me in is the machinery underneath: system design, architecture, and how a product behaves under real use and real load. I like owning the whole stack of concerns — data models, durable workflows, auth, storage, realtime, deployment — and thinking about how the pieces interact and where the failure modes hide.
+
+AI is a tool I reach for when it's genuinely the right tool for a problem, not the premise I'm starting from. Recent projects have leaned on document and data extraction pipelines, but that's a slice of what I do, not the definition of it.
 
 Most of my projects are things I designed, built, and shipped end to end rather than inherited from a spec.
 
