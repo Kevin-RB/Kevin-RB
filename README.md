@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Kevin Romero 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Kevin-RB"><img src="https://img.shields.io/badge/-Kevin--Romero-2ea44f?style=flat-square&logo=github" alt="Kevin Romero" /></a>
-  <a href="https://www.linkedin.com/in/kevinromerob/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<p align="center">
   <b>Software Engineer</b> &nbsp;|&nbsp; <b>AI Product Engineer</b> &nbsp;·&nbsp; MIT (Australia) 🇦🇺 🦘
 </p>
 
@@ -19,7 +14,7 @@
 
 ## About Me
 
-I love building things that actually work — especially when software engineering meets AI. I recently completed a **Master of Information Technology (MIT) in Australia** (super proud of it btw 🦘), which is where the "MIT" on my profile comes from.
+I love building things that actually work — especially when software engineering meets AI. I recently completed a **Master of Information Technology (MIT) in Australia** (super proud of it btw 🦘).
 
 Most of my work right now is agentic AI: pipelines that pull structure out of messy, unstructured documents, and local-first apps that keep your data on your own machine. I care about durable workflows, clean domain models, and shipping things that survive contact with real users.
 
@@ -60,11 +55,3 @@ What that means in practice is owning problems end to end — the domain model, 
 ## <a name="connect"></a>Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinromerob/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinromero.b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kevin-RB)
-
----
-
-<p align="center">
-  <sub>Made with ☕ in Brisbane, Australia</sub>
-</p>
