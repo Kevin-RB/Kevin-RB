@@ -16,7 +16,7 @@
 
 I love building things that actually work — especially when software engineering meets AI. I recently completed a **Master of Information Technology (MIT) in Australia** (super proud of it btw 🦘).
 
-My focus is building systems and products that deliver actual value. I care about whether something is genuinely useful to the person using it, and whether it's a delight to use — software that isn't worth reaching for, however well engineered, hasn't really done its job.
+My focus is building systems and products that deliver actual value. I care about making things genuinely useful to the person using them, and a pleasure to use.
 
 What draws me in is the machinery underneath: system design, architecture, and how a product behaves under real use and real load. I like owning the whole stack of concerns — data models, durable workflows, auth, storage, realtime, deployment — and thinking about how the pieces interact and where the failure modes hide.
 
